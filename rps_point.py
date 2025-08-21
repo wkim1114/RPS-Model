@@ -88,9 +88,9 @@ def point_eval(player_choice: str, computer_choice: str) -> None:
 
 def point_check() -> None:
     if play_count > 0:
-        print(f"The point by rock is {result["Rock"]}.")
-        print(f"The point by scissor is {result["Scissor"]}.")
-        print(f"The point by paper is {result["Paper"]}.")
+        print(f"The point by rock is {result['Rock']}.")
+        print(f"The point by scissor is {result['Scissor']}.")
+        print(f"The point by paper is {result['Paper']}.")
         print(f"Total point is {result['Rock'] + result['Paper'] + result['Scissor']}. \n")
         return None
 
