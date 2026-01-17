@@ -3,8 +3,6 @@
 ### Python-Based Behavioral Modeling for Rock-Paper-Scissors
 
 **Author:** Woojung (Will) Kim
-**Status:** Prototype / Educational
-**Language:** Python 3.x
 
 ---
 
